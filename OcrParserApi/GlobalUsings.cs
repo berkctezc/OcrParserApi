@@ -1,0 +1,12 @@
+global using System.Net;
+global using System.Net.Http.Headers;
+global using System.Text;
+global using Microsoft.AspNetCore.Mvc;
+global using Newtonsoft.Json;
+global using OcrParserApi.Models;
+global using SixLabors.Fonts;
+global using SixLabors.ImageSharp;
+global using SixLabors.ImageSharp.Drawing.Processing;
+global using SixLabors.ImageSharp.Formats.Jpeg;
+global using SixLabors.ImageSharp.PixelFormats;
+global using SixLabors.ImageSharp.Processing;
